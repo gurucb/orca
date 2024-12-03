@@ -1,0 +1,1 @@
+#This script is to invoke ESRP that validates malware in an image
